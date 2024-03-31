@@ -1,0 +1,15 @@
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\bin\Debug\net6.0\oculuskiller.net6.exe
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\bin\Debug\net6.0\oculuskiller.net6.deps.json
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\bin\Debug\net6.0\oculuskiller.net6.runtimeconfig.json
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\bin\Debug\net6.0\oculuskiller.net6.dll
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\bin\Debug\net6.0\oculuskiller.net6.pdb
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\oculuskiller.net6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\oculuskiller.net6.AssemblyInfoInputs.cache
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\oculuskiller.net6.AssemblyInfo.cs
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\oculuskiller.net6.csproj.CoreCompileInputs.cache
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\oculuskiller.net6.dll
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\refint\oculuskiller.net6.dll
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\oculuskiller.net6.pdb
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\oculuskiller.net6.genruntimeconfig.cache
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\ref\oculuskiller.net6.dll
+C:\Users\sidne\source\repos\oculuskiller.net6\oculuskiller.net6\obj\Debug\net6.0\oculuskiller.net6.sourcelink.json
